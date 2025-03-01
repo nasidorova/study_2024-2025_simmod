@@ -70,5 +70,45 @@ header-includes:
 
 ![График](image/11.jpg){#fig:011 width=70%}
 
+##
+
+![График](image/12.jpg){#fig:012 width=70%}
+
+##
+
+![График](image/13.jpg){#fig:013 width=70%}
+
+##
+
+![График](image/14.jpg){#fig:014 width=70%}
+
+##
+
+![График](image/15.jpg){#fig:015 width=70%}
+
+##
+
+![График](image/16.jpg){#fig:016 width=70%}
+
+##
+
+![График](image/17.jpg){#fig:017 width=70%}
+
+##
+
+![График](image/18.jpg){#fig:018 width=70%}
+
+##
+
+![График](image/19.jpg){#fig:019 width=70%}
+
+##
+
+![График](image/20.jpg){#fig:020 width=70%}
+
+##
+
+![График](image/21.jpg){#fig:021 width=70%}
+
 :::
 
